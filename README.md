@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaisnavishan.
-- 👀 I’m interested in programming, dance, and more!
+- 👀 I’m interested in programming, data science, dance, and more!
 - 🌱 I’m currently learning SQL!
 
 
