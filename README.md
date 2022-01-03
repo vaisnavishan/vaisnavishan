@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vaisnavishan
+- 👋 Hi, I’m @vaisnavishan.
 - 👀 I’m interested in programming, dance, and more!
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL!
 
 
 <!---
